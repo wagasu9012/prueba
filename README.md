@@ -1,9 +1,8 @@
 # prueba
 
 
-{\begin{equation}
-E = mc^2
-\end{equation}
+$$E = mc^2$$
+
 
 $$E(y) = \alpha + \beta{x}$$
 
